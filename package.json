@@ -1,0 +1,25 @@
+{
+  "name": "AI-Tools",
+  "version": "1.0.0",
+  "description": "AI-Tools, a Tool that is AI implanted in it.",
+  "main": "index.js",
+  "dependencies": {
+    "deepai": "^1.0.17",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EhsanFox/AI-Tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EhsanFox/AI-Tools/issues"
+  },
+  "homepage": "https://github.com/EhsanFox/AI-Tools#readme"
+}
