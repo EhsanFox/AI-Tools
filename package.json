@@ -1,0 +1,32 @@
+{
+  "name": "AI-Tools",
+  "version": "1.0.0",
+  "description": "AI-Tools, a Package to Access Bete AI",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc src/Client.ts",
+    "test": "node test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EhsanFox/AI-Tools.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "EhsanFox",
+    "url": "https://ehsan.js.org",
+    "email": "ehsan8184@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EhsanFox/AI-Tools/issues"
+  },
+  "homepage": "https://github.com/EhsanFox/AI-Tools#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {
+    "@types/request-promise": "^4.1.48"
+  }
+}
