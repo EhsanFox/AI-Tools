@@ -13,6 +13,7 @@ Currently, we have a few AI-Tools implented in our AI-Client.
 ```
 
 >> HandleOK: Removes 'ok' property from Request
+
 >> reject: decide to reject the Error or resolve it anyway
 
 ### NSFW
