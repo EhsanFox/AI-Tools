@@ -1,5 +1,5 @@
 # AI-Tools
- AI-Tools, a Package to Access Bete AI
+ AI-Tools, a Package to Access Beta AI
 
 ## Client
 Currently, we have a few AI-Tools implented in our AI-Client.
